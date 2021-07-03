@@ -26,4 +26,4 @@
 ## _Motor Connection:_
 
 Two motors are connected to the OUT1 and OUT2 pins.
-Two other motors are connected to the OUT3 and OUT4 pins.
+The two other motors are connected to the OUT3 and OUT4 pins.
